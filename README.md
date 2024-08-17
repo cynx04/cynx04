@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cynx04 call me Cynthia!
+- 👋 Hi, I’m @cynx04, Cynthia!
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently studying at Ajeenkya DY Patil University as a B.Tech CSE Student
 - 📫 How to reach me, you can email me at pkpachal7@gmail.com
